@@ -52,7 +52,6 @@ jsonschema-specifications==2025.9.1
 kiwisolver==1.4.8
 kombu==5.5.4
 lazy_loader==0.4
-leapc_cffi==0.0.1
 llvmlite==0.45.1
 loguru==0.7.3
 MarkupSafe==2.1.5
