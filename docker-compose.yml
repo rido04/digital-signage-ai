@@ -1,0 +1,87 @@
+version: "3.8"
+
+services:
+  # Redis for Celery broker
+  redis:
+    image: redis:7-alpine
+    container_name: signage-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+
+  # FastAPI application
+  api:
+    build: .
+    container_name: signage-ai-api
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./temp:/app/temp
+      - ./models:/app/models
+      - ./output:/app/output
+      - ./logs:/app/logs
+    environment:
+      - ENV=production
+      - DEBUG=false
+      - REDIS_HOST=redis
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    depends_on:
+      - redis
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  # Celery worker
+  worker:
+    build: .
+    container_name: signage-ai-worker
+    command: python3 celery_worker.py
+    volumes:
+      - ./temp:/app/temp
+      - ./models:/app/models
+      - ./output:/app/output
+      - ./logs:/app/logs
+    environment:
+      - ENV=production
+      - DEBUG=false
+      - REDIS_HOST=redis
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    depends_on:
+      - redis
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  # Celery Flower (monitoring) - Optional
+  flower:
+    build: .
+    container_name: signage-ai-flower
+    command: celery -A tasks.generation_task flower --port=5555
+    ports:
+      - "5555:5555"
+    environment:
+      - REDIS_HOST=redis
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    depends_on:
+      - redis
+      - worker
+    restart: unless-stopped
+
+volumes:
+  redis_data:

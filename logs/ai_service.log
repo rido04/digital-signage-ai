@@ -1,0 +1,865 @@
+2025-10-13 11:20:58.262 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 11:20:58.263 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 11:20:58.263 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 11:20:58.265 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 11:21:30.699 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 11:21:30.700 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 11:33:24.969 | ERROR    | app.services.ai_generator:load_model:69 - Failed to load Stable Diffusion model: CLIPTextModel.__init__() got an unexpected keyword argument 'offload_state_dict'
+2025-10-13 11:33:24.970 | WARNING  | main:shutdown_event:86 - Model cleanup error: CLIPTextModel.__init__() got an unexpected keyword argument 'offload_state_dict'
+2025-10-13 11:33:54.391 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 11:33:54.392 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 11:33:54.393 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 11:33:54.396 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 11:35:05.114 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 11:35:05.115 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 11:35:08.321 | ERROR    | app.services.ai_generator:load_model:69 - Failed to load Stable Diffusion model: CLIPTextModel.__init__() got an unexpected keyword argument 'offload_state_dict'
+2025-10-13 11:35:08.321 | WARNING  | main:shutdown_event:86 - Model cleanup error: CLIPTextModel.__init__() got an unexpected keyword argument 'offload_state_dict'
+2025-10-13 11:38:18.090 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 11:38:18.090 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 11:38:18.090 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 11:38:18.093 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 11:44:52.864 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 11:44:52.865 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 11:44:55.339 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 11:44:55.536 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 11:44:55.536 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 11:45:34.974 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 11:45:34.975 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 11:45:34.976 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 11:45:34.978 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 11:46:45.530 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 11:46:45.532 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 11:46:47.983 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 11:46:48.197 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 11:46:48.198 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 11:47:10.489 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 11:47:10.491 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 11:47:10.492 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 11:47:10.497 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 11:50:18.842 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 11:50:18.843 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 11:50:21.798 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 11:50:22.208 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 11:50:22.288 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 13:27:39.727 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 13:27:39.728 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 13:27:39.729 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 13:27:39.732 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 13:38:57.536 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 13:38:57.537 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 13:38:57.538 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 13:38:57.543 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 14:09:40.951 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 14:09:44.763 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 14:09:44.769 | INFO     | app.services.face_swapper:load_model:30 - Loading InsightFace models...
+2025-10-13 14:10:43.287 | WARNING  | app.services.face_swapper:load_model:41 - Face swap model not found at ./models\inswapper_128.onnx
+2025-10-13 14:10:43.287 | INFO     | app.services.face_swapper:load_model:42 - Downloading face swap model...
+2025-10-13 14:10:43.932 | ERROR    | app.services.face_swapper:load_model:55 - Failed to load face swap models: Failed downloading url https://github.com/deepinsight/insightface/releases/download/v0.7/inswapper_128.onnx.zip
+2025-10-13 14:10:43.934 | WARNING  | app.services.face_swapper:get_face_swapper:330 - Failed to pre-load face swapper model: Failed downloading url https://github.com/deepinsight/insightface/releases/download/v0.7/inswapper_128.onnx.zip
+2025-10-13 15:23:54.077 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 15:23:55.008 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 15:23:55.009 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 15:26:24.868 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 15:26:24.868 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 15:26:24.868 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 15:26:24.868 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 15:30:04.064 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 15:30:04.065 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 15:30:07.554 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 15:30:07.826 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 15:30:07.827 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 15:30:42.081 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 15:30:42.082 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 15:30:42.083 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 15:30:42.090 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 15:32:15.087 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 15:32:18.185 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 15:32:18.186 | INFO     | app.services.face_swapper:load_model:30 - Loading InsightFace models...
+2025-10-13 15:32:21.927 | WARNING  | app.services.face_swapper:load_model:41 - Face swap model not found at ./models\inswapper_128.onnx
+2025-10-13 15:32:21.928 | INFO     | app.services.face_swapper:load_model:42 - Downloading face swap model...
+2025-10-13 15:32:25.768 | ERROR    | app.services.face_swapper:load_model:55 - Failed to load face swap models: Error parsing message with type 'onnx.ModelProto'
+2025-10-13 15:32:25.768 | WARNING  | app.services.face_swapper:get_face_swapper:330 - Failed to pre-load face swapper model: Error parsing message with type 'onnx.ModelProto'
+2025-10-13 15:33:41.291 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 15:33:41.582 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 15:33:41.583 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 15:34:55.832 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 15:34:55.832 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 15:34:55.833 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 15:34:55.835 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 15:34:56.137 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 15:34:59.162 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 15:34:59.163 | INFO     | app.services.face_swapper:load_model:30 - Loading InsightFace models...
+2025-10-13 15:35:01.901 | WARNING  | app.services.face_swapper:load_model:41 - Face swap model not found at ./models\inswapper_128.onnx
+2025-10-13 15:35:01.902 | INFO     | app.services.face_swapper:load_model:42 - Downloading face swap model...
+2025-10-13 15:35:03.930 | ERROR    | app.services.face_swapper:load_model:55 - Failed to load face swap models: [ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Exception during initialization: bad allocation
+2025-10-13 15:35:03.930 | WARNING  | app.services.face_swapper:get_face_swapper:330 - Failed to pre-load face swapper model: [ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Exception during initialization: bad allocation
+2025-10-13 15:36:25.129 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 15:36:25.449 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 15:36:25.450 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 15:38:52.183 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 15:38:52.185 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 15:38:52.185 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 15:38:52.188 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 15:46:19.992 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 15:46:22.650 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 15:46:22.651 | INFO     | app.services.face_swapper:load_model:30 - Loading InsightFace models...
+2025-10-13 15:46:25.513 | INFO     | app.services.face_swapper:load_model:47 - Loading face swap model from ./models\inswapper_128.onnx
+2025-10-13 15:46:26.078 | ERROR    | app.services.face_swapper:load_model:55 - Failed to load face swap models: [ONNXRuntimeError] : 1 : FAIL : Load model from ./models\inswapper_128.onnx failed:bad allocation
+2025-10-13 15:46:26.079 | WARNING  | app.services.face_swapper:get_face_swapper:330 - Failed to pre-load face swapper model: [ONNXRuntimeError] : 1 : FAIL : Load model from ./models\inswapper_128.onnx failed:bad allocation
+2025-10-13 15:50:00.176 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 15:50:00.445 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 15:50:00.446 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 15:50:58.876 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 15:50:58.877 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 15:50:58.878 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 15:50:58.882 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 15:58:12.985 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 15:58:15.430 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 15:58:15.431 | INFO     | app.services.face_swapper:load_model:30 - Loading InsightFace models...
+2025-10-13 15:58:18.867 | INFO     | app.services.face_swapper:load_model:47 - Loading face swap model from ./models\inswapper_128.onnx
+2025-10-13 15:58:23.072 | INFO     | app.services.face_swapper:load_model:52 - Face swap models loaded successfully
+2025-10-13 16:01:08.104 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 123
+2025-10-13 16:01:08.107 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\123_face.jpg
+2025-10-13 16:01:14.522 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: 21599fcc-bf17-4e05-980a-4771e70857e2
+2025-10-13 16:04:18.214 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 0199dcd0-39c4-7253-a96b-b453df36e81a
+2025-10-13 16:04:18.217 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\0199dcd0-39c4-7253-a96b-b453df36e81a_face.jpg
+2025-10-13 16:04:18.259 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: d23095cd-f7a3-4ab9-abaa-7a2f3a2fe621
+2025-10-13 16:06:22.112 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 0199dcd2-1dc8-70b4-a2a3-09a3dae7d91d
+2025-10-13 16:06:22.115 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\0199dcd2-1dc8-70b4-a2a3-09a3dae7d91d_face.jpg
+2025-10-13 16:06:22.121 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: 5a5ff8f7-6a68-40bc-bf38-ebc3468ba4ec
+2025-10-13 16:09:02.621 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 0199dcd4-9053-72e2-a745-65fc41635c15
+2025-10-13 16:09:02.624 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\0199dcd4-9053-72e2-a745-65fc41635c15_face.jpg
+2025-10-13 16:09:02.631 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: 2a150743-afd1-4713-9154-56c55bf240af
+2025-10-13 16:09:39.175 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 0199dcd5-1fbf-70dc-80e1-4b657a8108c7
+2025-10-13 16:09:39.178 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\0199dcd5-1fbf-70dc-80e1-4b657a8108c7_face.jpg
+2025-10-13 16:09:39.184 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: bf815f25-4d85-4171-aa40-171aa44edc69
+2025-10-13 16:10:33.001 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:10:33.293 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 16:10:33.294 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 16:11:05.507 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:11:05.507 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:11:05.508 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:11:05.510 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:11:42.860 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:11:42.861 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 16:11:45.493 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 16:11:45.745 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 16:11:45.746 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 16:12:18.461 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:12:18.463 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:12:18.468 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:12:18.471 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:12:39.240 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:12:39.242 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 16:12:41.765 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 16:12:42.091 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 16:12:42.092 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 16:13:10.125 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:13:10.126 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:13:10.126 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:13:10.129 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:13:10.137 | INFO     | app.api.routes.routes:process_generation:74 - Received generation request: 0199dcd8-1d46-73c4-8897-e65e35b18844
+2025-10-13 16:13:10.140 | INFO     | app.api.routes.routes:process_generation:84 - Face image saved to ./temp\0199dcd8-1d46-73c4-8897-e65e35b18844_face.jpg
+2025-10-13 16:13:16.412 | INFO     | app.api.routes.routes:process_generation:101 - Task queued with ID: 9bb20c92-cef8-4aaf-8f2d-65cad80efebb
+2025-10-13 16:14:11.756 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:14:11.758 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 16:14:15.236 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 16:14:15.541 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 16:14:15.542 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 16:14:43.744 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:14:43.745 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:14:43.745 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:14:43.748 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:14:43.756 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcd9-71e8-70fb-bd11-671a8f2a79c9
+2025-10-13 16:14:43.759 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcd9-71e8-70fb-bd11-671a8f2a79c9_face.jpg
+2025-10-13 16:14:50.012 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 3cba7f87-15ab-490e-b580-ac12fa3b46d1
+2025-10-13 16:16:40.130 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcdb-8c1a-7332-8e07-168448d81299
+2025-10-13 16:16:40.133 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcdb-8c1a-7332-8e07-168448d81299_face.jpg
+2025-10-13 16:16:40.138 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 32e6610b-a2ce-4a3e-ba0c-be487882b8bc
+2025-10-13 16:17:00.089 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcdb-d9f8-71e4-9d1b-561250bb10e0
+2025-10-13 16:17:00.091 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcdb-d9f8-71e4-9d1b-561250bb10e0_face.jpg
+2025-10-13 16:17:00.096 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: ffd82d1a-782b-4759-86c8-d5707ff3aaa4
+2025-10-13 16:17:44.912 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcdc-8930-70cb-842b-a962f27c298a
+2025-10-13 16:17:44.916 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcdc-8930-70cb-842b-a962f27c298a_face.jpg
+2025-10-13 16:17:44.924 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 8562f354-b4bf-4880-a3e7-59a33ab862e4
+2025-10-13 16:19:32.245 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:19:32.246 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 16:19:36.273 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-13 16:19:36.952 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-13 16:19:36.957 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-13 16:20:29.184 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:20:29.184 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:20:29.191 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:20:29.194 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:20:29.202 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcde-deab-7382-99c2-d6a7c1a6aff1
+2025-10-13 16:20:29.205 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcde-deab-7382-99c2-d6a7c1a6aff1_face.jpg
+2025-10-13 16:20:35.485 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: c1b602df-a4eb-45ac-b260-66890cf87c25
+2025-10-13 16:21:55.289 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dce0-5b1d-7350-9cb3-4d34cdd3a8ad
+2025-10-13 16:21:55.292 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dce0-5b1d-7350-9cb3-4d34cdd3a8ad_face.jpg
+2025-10-13 16:21:55.299 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 52ebc450-0a96-425a-ae9b-58e8536cf8b0
+2025-10-13 16:24:19.661 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-13 16:24:19.688 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-13 16:24:55.206 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-13 16:24:55.206 | INFO     | main:startup_event:53 - Environment: development
+2025-10-13 16:24:55.207 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-13 16:24:55.209 | INFO     | main:startup_event:58 - Directories checked
+2025-10-13 16:25:39.716 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dce3-c798-715f-8f2c-697bc67ba749
+2025-10-13 16:25:39.718 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dce3-c798-715f-8f2c-697bc67ba749_face.jpg
+2025-10-13 16:25:46.009 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: ef22ea51-6231-4fb4-8534-695244551aa5
+2025-10-13 16:49:56.582 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199dcfa-026a-733f-affc-6a1b524b8806
+2025-10-13 16:49:56.590 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199dcfa-026a-733f-affc-6a1b524b8806_face.jpg
+2025-10-13 16:49:56.633 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 7357ae3d-6cd5-4792-8235-504a899fef0f
+2025-10-14 09:40:55.540 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 09:40:55.541 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 09:40:55.542 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 09:40:55.546 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 09:41:25.234 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e097-ff88-73c8-8368-c6aab15c5709
+2025-10-14 09:41:25.238 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e097-ff88-73c8-8368-c6aab15c5709_face.jpg
+2025-10-14 09:41:31.585 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: dc622807-1c75-4daf-ad17-cac1bf28333f
+2025-10-14 09:51:40.064 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 09:51:40.082 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 09:51:44.728 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 09:51:44.924 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 09:51:44.925 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 09:52:42.200 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 09:52:42.201 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 09:52:42.201 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 09:52:42.203 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 09:54:46.188 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 09:54:46.188 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 09:54:48.624 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 09:54:48.830 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 09:54:48.831 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 09:55:21.217 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 09:55:21.217 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 09:55:21.218 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 09:55:21.219 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 09:55:43.176 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e0a5-1b54-70a2-99b9-71fe8c87edc8
+2025-10-14 09:55:43.176 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e0a5-1b54-70a2-99b9-71fe8c87edc8_face.jpg
+2025-10-14 09:55:49.341 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 634d2783-ac53-4d38-8c46-8b46f34a22b1
+2025-10-14 10:30:26.829 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e0c4-ee13-72c2-9cc2-73f2c5ae66b9
+2025-10-14 10:30:26.840 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e0c4-ee13-72c2-9cc2-73f2c5ae66b9_face.jpg
+2025-10-14 10:30:26.876 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 43a45212-965b-4cf7-9e8c-0fc3f8280697
+2025-10-14 11:00:46.293 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 11:00:46.317 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 11:01:09.104 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 11:01:09.106 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 11:01:09.106 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 11:01:09.107 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 11:02:27.993 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e0e2-3ee8-71f2-9ffd-c0c0409aa0a7
+2025-10-14 11:02:27.993 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e0e2-3ee8-71f2-9ffd-c0c0409aa0a7_face.jpg
+2025-10-14 11:02:34.328 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 744f5dbe-02ae-408d-8899-a8be90e6e1c4
+2025-10-14 11:02:40.649 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 11:02:40.652 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 11:02:43.613 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 11:02:43.815 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 11:02:43.815 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 11:03:14.146 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 11:03:14.147 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 11:03:14.147 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 11:03:14.150 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 11:03:27.787 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e0e3-289e-7106-a146-aa5b8810bc06
+2025-10-14 11:03:27.788 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e0e3-289e-7106-a146-aa5b8810bc06_face.jpg
+2025-10-14 11:03:33.991 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: f03dd08d-8944-45df-aae2-4ac6d8777b4b
+2025-10-14 11:30:21.965 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 11:30:21.972 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 11:30:26.186 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 11:30:26.370 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 11:30:26.370 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 11:34:18.962 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 11:34:18.962 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 11:34:18.962 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 11:34:18.962 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 11:35:17.022 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e100-4a9f-7013-93e1-b02cfc5f205d
+2025-10-14 11:35:17.022 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e100-4a9f-7013-93e1-b02cfc5f205d_face.jpg
+2025-10-14 11:35:23.212 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: a849fbdf-55a5-4562-b53d-3a9f906119ea
+2025-10-14 13:26:35.884 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e166-2c59-726b-b8cb-cebee1a5305c
+2025-10-14 13:26:35.892 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e166-2c59-726b-b8cb-cebee1a5305c_face.jpg
+2025-10-14 13:26:35.928 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: d16638f6-714f-44dc-a2d0-87c53f28e2a9
+2025-10-14 14:02:10.861 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 14:02:10.915 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 14:02:17.233 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 14:02:17.434 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 14:02:17.434 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 14:03:01.809 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 14:03:01.809 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 14:03:01.809 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 14:03:01.809 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 14:03:45.277 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 14:03:45.284 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 14:03:48.003 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 14:03:48.221 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 14:03:48.221 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 14:04:03.298 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 14:04:03.298 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 14:04:03.298 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 14:04:03.299 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 14:04:09.498 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 14:04:09.498 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 14:04:11.425 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 14:04:11.621 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 14:04:11.621 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 14:05:04.205 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 14:05:04.205 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 14:05:04.206 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 14:05:04.207 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 14:05:11.530 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e189-896d-7108-be5b-bfa5ae768b06
+2025-10-14 14:05:11.532 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e189-896d-7108-be5b-bfa5ae768b06_face.jpg
+2025-10-14 14:05:17.733 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: eeb9c00c-b525-4250-9480-d122a57e7e5e
+2025-10-14 14:13:43.868 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 14:13:43.884 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 14:13:47.896 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 14:13:48.159 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 14:13:48.162 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 14:14:19.800 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 14:14:19.802 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 14:14:19.825 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 14:14:19.843 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 14:28:55.884 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e19f-44c1-713b-8204-e0a10073ad7d
+2025-10-14 14:28:55.893 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e19f-44c1-713b-8204-e0a10073ad7d_face.jpg
+2025-10-14 14:29:02.429 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: b177d24b-a331-452f-b0bd-fcb135569c77
+2025-10-14 14:30:43.746 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e1a0-ea8c-7148-9241-93713222d153
+2025-10-14 14:30:43.749 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e1a0-ea8c-7148-9241-93713222d153_face.jpg
+2025-10-14 14:30:43.752 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 2f52d4d8-df60-498f-b396-132cd9e70c83
+2025-10-14 14:32:00.454 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e1a2-1628-7194-9418-d84f7d352d66
+2025-10-14 14:32:00.460 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e1a2-1628-7194-9418-d84f7d352d66_face.jpg
+2025-10-14 14:32:00.466 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: b144faed-1e11-4d44-977b-49a42e619912
+2025-10-14 14:33:20.613 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e1a3-4f5b-7189-a7fb-f82a964ca754
+2025-10-14 14:33:20.615 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e1a3-4f5b-7189-a7fb-f82a964ca754_face.jpg
+2025-10-14 14:33:20.618 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: fe5dfb13-dd00-4f15-989b-52afe8788045
+2025-10-14 14:41:26.514 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e1aa-b95c-72a0-a7b8-4c782e51c018
+2025-10-14 14:41:26.516 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e1aa-b95c-72a0-a7b8-4c782e51c018_face.jpg
+2025-10-14 14:41:26.525 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: ac397ea9-71d6-4017-8f0e-cf965d2a66e1
+2025-10-14 15:36:53.711 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 15:36:53.750 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 15:36:58.894 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 15:36:59.107 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 15:36:59.107 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 15:37:35.658 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 15:37:35.658 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 15:37:35.658 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 15:37:35.658 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 15:37:37.923 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-14 15:37:37.924 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-14 15:37:40.791 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-14 15:37:40.972 | INFO     | app.services.ai_generator:unload_model:156 - Model unloaded
+2025-10-14 15:37:40.973 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-14 15:38:16.774 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-14 15:38:16.774 | INFO     | main:startup_event:53 - Environment: development
+2025-10-14 15:38:16.775 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-14 15:38:16.777 | INFO     | main:startup_event:58 - Directories checked
+2025-10-14 15:40:19.991 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199e1e0-a3d8-73af-b06f-e089a5485a55
+2025-10-14 15:40:19.992 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199e1e0-a3d8-73af-b06f-e089a5485a55_face.jpg
+2025-10-14 15:40:26.201 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 2b45a718-a4cb-4db7-9c11-ddcb5ec550e8
+2025-10-16 09:23:48.480 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:23:48.481 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:23:48.481 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:23:48.482 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:46:32.940 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:46:32.940 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:46:36.780 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:46:37.015 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:46:37.016 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:46:57.695 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:46:57.695 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:46:57.696 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:46:57.698 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:47:08.624 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:47:08.625 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:47:11.579 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:47:11.759 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:47:11.759 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:50:08.171 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:50:08.172 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:50:08.172 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:50:08.174 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:50:20.142 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:50:20.142 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:50:23.219 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:50:23.420 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:50:23.420 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:50:38.885 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:50:38.886 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:50:38.887 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:50:38.892 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:50:53.067 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:50:53.068 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:50:55.467 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:50:55.655 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:50:55.656 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:51:12.292 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:51:12.292 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:51:12.300 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:51:12.302 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:51:46.032 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:51:46.033 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:51:49.201 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:51:49.420 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:51:49.420 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:52:36.359 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:52:36.360 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:52:36.360 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:52:36.362 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:53:11.154 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:53:11.155 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:53:14.412 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:53:14.628 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:53:14.629 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:53:36.410 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:53:36.410 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:53:36.414 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:53:36.414 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:53:37.597 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:53:37.599 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:53:40.675 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:53:40.878 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:53:40.879 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:55:17.338 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:55:17.338 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:55:17.338 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:55:17.345 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 09:55:19.467 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eaf1-7a95-732c-a694-1545c1796c8f
+2025-10-16 09:55:19.470 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eaf1-7a95-732c-a694-1545c1796c8f_face.jpg
+2025-10-16 09:55:25.737 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 22564852-ebc0-442a-82a1-269005f0da75
+2025-10-16 09:56:30.446 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eaf2-93d6-710e-b6fe-938a1e291b39
+2025-10-16 09:56:30.446 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eaf2-93d6-710e-b6fe-938a1e291b39_face.jpg
+2025-10-16 09:56:30.451 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 7e98b6dc-8e38-4077-aa4c-851d85e063a3
+2025-10-16 09:58:58.191 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 09:58:58.191 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 09:59:01.699 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 09:59:01.924 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 09:59:01.925 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 09:59:47.990 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 09:59:47.991 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 09:59:47.991 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 09:59:47.993 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:00:16.364 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eaf6-064f-72e9-a89b-1155428c34e7
+2025-10-16 10:00:16.368 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eaf6-064f-72e9-a89b-1155428c34e7_face.jpg
+2025-10-16 10:00:22.695 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: f6f655b5-1e7d-460c-95fb-df8c903d06a5
+2025-10-16 10:00:58.071 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:00:58.071 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:01:01.013 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:01:01.220 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:01:01.221 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:01:16.539 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:01:16.540 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:01:16.540 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:01:16.541 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:01:26.724 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:01:26.725 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:01:29.427 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:01:29.645 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:01:29.645 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:01:47.334 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:01:47.334 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:01:47.341 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:01:47.344 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:01:47.348 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eaf7-4718-72a7-b649-cbaa5dd04de9
+2025-10-16 10:01:47.356 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eaf7-4718-72a7-b649-cbaa5dd04de9_face.jpg
+2025-10-16 10:01:53.545 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: efe6180d-092a-42ee-abaf-363a0b3bbbf9
+2025-10-16 10:01:59.329 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:01:59.330 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:02:02.550 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:02:02.725 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:02:02.725 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:02:40.283 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:02:40.284 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:02:40.284 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:02:40.285 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:03:22.334 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:03:22.335 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:03:26.045 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:03:26.235 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:03:26.236 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:04:05.566 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:04:05.566 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:04:05.568 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:04:05.569 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:04:16.742 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eaf9-b15f-724f-9a11-bd9d86ddfba1
+2025-10-16 10:04:16.744 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eaf9-b15f-724f-9a11-bd9d86ddfba1_face.jpg
+2025-10-16 10:04:22.934 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: e809f040-e0db-4376-888a-7ac829010331
+2025-10-16 10:23:17.951 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:23:17.964 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:23:23.092 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:23:23.393 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:23:23.395 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:24:10.835 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:24:10.836 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:24:10.837 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:24:10.842 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:30:45.364 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eb11-ee5c-728d-b7c3-08961d6e5c2b
+2025-10-16 10:30:45.372 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eb11-ee5c-728d-b7c3-08961d6e5c2b_face.jpg
+2025-10-16 10:30:51.888 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: f50634ee-5972-4abc-8c35-80dfd743b89a
+2025-10-16 10:32:50.971 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 10:32:50.973 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 10:32:53.607 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 10:32:53.802 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 10:32:53.802 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 10:33:58.266 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 10:33:58.266 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 10:33:58.266 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 10:33:58.266 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 10:36:19.645 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199eb17-0895-710b-8e23-93ed73abe949
+2025-10-16 10:36:19.648 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199eb17-0895-710b-8e23-93ed73abe949_face.jpg
+2025-10-16 10:36:25.869 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: b3daa829-ffb3-4d66-98cd-b2576a23831a
+2025-10-16 13:10:14.102 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 13:10:14.134 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 13:10:18.957 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 13:10:19.442 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 13:10:19.442 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 13:20:13.851 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 13:20:13.852 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 13:20:13.853 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 13:20:13.855 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 13:20:44.728 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199ebad-8511-727e-8591-891348882418
+2025-10-16 13:20:44.728 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199ebad-8511-727e-8591-891348882418_face.jpg
+2025-10-16 13:20:51.026 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: eb5a1c37-466b-434c-9d39-c8bbb908b44d
+2025-10-16 14:27:01.257 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 14:27:01.283 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 14:29:26.564 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 14:29:26.565 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 14:29:26.565 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 14:29:26.568 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 14:30:38.958 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199ebed-8f5e-72b3-805c-8226cc49c765
+2025-10-16 14:30:38.963 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199ebed-8f5e-72b3-805c-8226cc49c765_face.jpg
+2025-10-16 14:30:45.348 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: d54448e5-b411-4895-a55b-9d0671792a7b
+2025-10-16 14:44:59.201 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 14:44:59.207 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 14:45:01.917 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 14:45:02.171 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 14:45:02.172 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 14:46:09.919 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 14:46:09.919 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 14:46:09.920 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 14:46:09.921 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 14:48:05.532 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 14:48:05.534 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 14:48:08.339 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 14:48:08.626 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 14:48:08.627 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 14:50:11.555 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 14:50:11.556 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 14:50:11.556 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 14:50:11.558 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 14:50:21.301 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199ebff-9a44-7387-92e1-614630bd64a4
+2025-10-16 14:50:21.303 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199ebff-9a44-7387-92e1-614630bd64a4_face.jpg
+2025-10-16 14:50:27.551 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 2e4a2398-0048-49ae-bea4-aef304dbb0f4
+2025-10-16 14:51:50.551 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 14:51:50.552 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 14:51:53.890 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 14:51:54.098 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 14:51:54.098 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 14:54:59.931 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 14:54:59.931 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 14:54:59.931 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 14:54:59.933 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 14:55:35.290 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199ec04-64d9-7153-8bf6-eaf3c5e43fed
+2025-10-16 14:55:35.292 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199ec04-64d9-7153-8bf6-eaf3c5e43fed_face.jpg
+2025-10-16 14:55:41.525 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 6c459ebe-02e4-460d-89b7-cb19bbf15321
+2025-10-16 15:03:55.449 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 15:03:59.257 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 15:03:59.258 | INFO     | app.services.face_swapper:load_model:28 - Loading InsightFace models...
+2025-10-16 15:04:02.546 | INFO     | app.services.face_swapper:load_model:44 - Loading face swap model from ./models\inswapper_128.onnx
+2025-10-16 15:04:09.327 | ERROR    | app.services.face_swapper:load_model:52 - Failed to load face swap models: Error parsing message with type 'onnx.ModelProto'
+2025-10-16 15:04:09.333 | WARNING  | app.services.face_swapper:get_face_swapper:477 - Failed to pre-load face swapper model: Error parsing message with type 'onnx.ModelProto'
+2025-10-16 15:12:36.699 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 15:12:37.518 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 15:12:37.518 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 15:49:50.331 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 15:49:50.332 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 15:49:50.332 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 15:49:50.333 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 15:53:01.863 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 15:53:01.869 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 15:53:05.706 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 15:53:05.957 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 15:53:05.957 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 15:53:26.669 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 15:53:26.669 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 15:53:26.670 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 15:53:26.671 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 15:53:29.815 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 15:53:29.816 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 15:53:33.987 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 15:53:34.250 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 15:53:34.251 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 15:53:54.453 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 15:53:54.453 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 15:53:54.454 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 15:53:54.455 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 15:55:16.611 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 15:55:16.612 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 15:55:20.081 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 15:55:20.281 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 15:55:20.282 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 15:55:45.016 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 15:55:45.017 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 15:55:45.017 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 15:55:45.019 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 15:55:47.312 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-16 15:55:47.313 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-16 15:55:49.616 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-16 15:55:49.870 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-16 15:55:49.870 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-16 15:57:01.892 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-16 15:57:01.906 | INFO     | main:startup_event:53 - Environment: development
+2025-10-16 15:57:01.906 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-16 15:57:01.909 | INFO     | main:startup_event:58 - Directories checked
+2025-10-16 15:57:25.417 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199ec3d-016f-71e8-89da-5727bb3218d6
+2025-10-16 15:57:25.417 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199ec3d-016f-71e8-89da-5727bb3218d6_face.jpg
+2025-10-16 15:57:31.768 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: c1662709-6ba9-4c4f-b164-ab65f1ce3031
+2025-10-17 09:24:07.477 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:24:07.477 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:24:07.479 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:24:07.481 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:27:28.322 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:27:28.326 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:27:31.169 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-17 09:27:31.358 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-17 09:27:31.359 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 09:27:59.297 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:27:59.298 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:27:59.298 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:27:59.300 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:28:23.391 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:28:23.392 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:28:27.350 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-17 09:28:27.704 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-17 09:28:27.708 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 09:28:50.223 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:28:50.224 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:28:50.224 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:28:50.226 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:29:10.091 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:29:10.091 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:29:12.709 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-17 09:29:12.918 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-17 09:29:12.918 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 09:29:59.026 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:29:59.027 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:29:59.027 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:29:59.028 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:31:52.417 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f002-5b66-7257-b33f-0c951db5b1f9
+2025-10-17 09:31:52.419 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f002-5b66-7257-b33f-0c951db5b1f9_face.jpg
+2025-10-17 09:31:58.617 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 933d93bf-396c-44cc-af64-e74127a77f98
+2025-10-17 09:51:02.099 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:51:02.113 | INFO     | app.services.ai_generator:load_model:29 - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:51:06.327 | INFO     | app.services.ai_generator:load_model:66 - Stable Diffusion model loaded successfully
+2025-10-17 09:51:06.634 | INFO     | app.services.ai_generator:unload_model:168 - Model unloaded
+2025-10-17 09:51:06.639 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 09:56:27.952 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:56:27.953 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:56:27.953 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:56:27.956 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:57:08.845 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:57:08.962 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 09:57:08.963 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 09:57:08.965 | INFO     | app.services.ai_generator:load_model:65 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:57:08.966 | INFO     | app.services.ai_generator:load_model:66 - 🖥️ Target device: privateuseone:0
+2025-10-17 09:57:08.968 | INFO     | app.services.ai_generator:load_model:71 - Using FP16 precision for GPU
+2025-10-17 09:57:19.716 | INFO     | app.services.ai_generator:load_model:91 - 📦 Moving model to privateuseone:0...
+2025-10-17 09:57:25.254 | INFO     | app.services.ai_generator:load_model:96 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 09:57:25.270 | INFO     | app.services.ai_generator:load_model:99 - ✅ DirectML optimizations applied
+2025-10-17 09:57:25.270 | INFO     | app.services.ai_generator:load_model:131 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 09:57:25.270 | INFO     | app.services.ai_generator:load_model:132 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 09:57:25.604 | INFO     | app.services.ai_generator:unload_model:238 - Model unloaded
+2025-10-17 09:57:25.606 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 09:57:47.362 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 09:57:47.362 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 09:57:47.363 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 09:57:47.365 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 09:58:03.864 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f01a-5ca4-7080-bb69-7b7bf297bd9f
+2025-10-17 09:58:03.864 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f01a-5ca4-7080-bb69-7b7bf297bd9f_face.jpg
+2025-10-17 09:58:10.483 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 2b4acb01-b13a-44a0-953a-fe54248959dc
+2025-10-17 09:59:46.924 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 09:59:47.009 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 09:59:47.009 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 09:59:47.010 | INFO     | app.services.ai_generator:load_model:65 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 09:59:47.010 | INFO     | app.services.ai_generator:load_model:66 - 🖥️ Target device: privateuseone:0
+2025-10-17 09:59:47.011 | INFO     | app.services.ai_generator:load_model:71 - Using FP16 precision for GPU
+2025-10-17 09:59:58.347 | INFO     | app.services.ai_generator:load_model:91 - 📦 Moving model to privateuseone:0...
+2025-10-17 10:00:02.218 | INFO     | app.services.ai_generator:load_model:96 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 10:00:02.234 | INFO     | app.services.ai_generator:load_model:99 - ✅ DirectML optimizations applied
+2025-10-17 10:00:02.235 | INFO     | app.services.ai_generator:load_model:131 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 10:00:02.236 | INFO     | app.services.ai_generator:load_model:132 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 10:00:02.562 | INFO     | app.services.ai_generator:unload_model:238 - Model unloaded
+2025-10-17 10:00:02.564 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 10:13:43.829 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:13:43.830 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:13:43.830 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:13:43.832 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:13:49.166 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f028-c92c-7210-87bf-8d46a4d24268
+2025-10-17 10:13:49.166 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f028-c92c-7210-87bf-8d46a4d24268_face.jpg
+2025-10-17 10:13:55.675 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 94cefe22-e79d-4da2-89f8-064f5fe8cdf9
+2025-10-17 10:14:41.738 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:14:41.811 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:14:41.811 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:14:41.812 | INFO     | app.services.ai_generator:load_model:65 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:14:41.812 | INFO     | app.services.ai_generator:load_model:66 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:14:41.812 | INFO     | app.services.ai_generator:load_model:71 - Using FP16 precision for GPU
+2025-10-17 10:19:22.240 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:19:22.241 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:19:22.241 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:19:22.242 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:19:30.889 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f02e-0009-72b9-b733-64adccc13fe0
+2025-10-17 10:19:30.891 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f02e-0009-72b9-b733-64adccc13fe0_face.jpg
+2025-10-17 10:19:37.271 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: c9d20daf-c83f-4312-862d-fdf44fd4c33c
+2025-10-17 10:22:55.161 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:22:55.468 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:22:55.468 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:22:55.471 | INFO     | app.services.ai_generator:load_model:65 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:22:55.472 | INFO     | app.services.ai_generator:load_model:66 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:22:55.472 | INFO     | app.services.ai_generator:load_model:71 - Using FP16 precision for GPU
+2025-10-17 10:23:08.664 | INFO     | app.services.ai_generator:load_model:91 - 📦 Moving model to privateuseone:0...
+2025-10-17 10:23:15.552 | INFO     | app.services.ai_generator:load_model:96 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 10:23:15.564 | INFO     | app.services.ai_generator:load_model:99 - ✅ DirectML optimizations applied
+2025-10-17 10:23:15.565 | INFO     | app.services.ai_generator:load_model:131 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 10:23:15.566 | INFO     | app.services.ai_generator:load_model:132 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 10:23:16.185 | INFO     | app.services.ai_generator:unload_model:238 - Model unloaded
+2025-10-17 10:23:16.185 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 10:24:00.125 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:24:00.125 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:24:00.125 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:24:00.129 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:24:07.947 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f032-3a3c-7387-be59-11bceae50eb3
+2025-10-17 10:24:07.947 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f032-3a3c-7387-be59-11bceae50eb3_face.jpg
+2025-10-17 10:24:14.309 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 17e8c950-d9f2-4d79-9438-799799467d57
+2025-10-17 10:28:06.518 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:28:06.592 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:28:06.593 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:28:06.594 | INFO     | app.services.ai_generator:load_model:65 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:28:06.595 | INFO     | app.services.ai_generator:load_model:66 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:28:06.596 | INFO     | app.services.ai_generator:load_model:71 - Using FP16 precision for GPU
+2025-10-17 10:28:20.181 | INFO     | app.services.ai_generator:load_model:91 - 📦 Moving model to privateuseone:0...
+2025-10-17 10:28:28.379 | INFO     | app.services.ai_generator:load_model:96 - 🔧 Applying DirectML compatibility fixes...
+2025-10-17 10:28:28.656 | INFO     | app.services.ai_generator:load_model:100 - ✅ Text encoder moved to CPU
+2025-10-17 10:28:28.656 | INFO     | app.services.ai_generator:load_model:101 - ✅ UNet & VAE remain on DirectML (AMD GPU)
+2025-10-17 10:28:28.658 | INFO     | app.services.ai_generator:load_model:106 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 10:28:28.666 | INFO     | app.services.ai_generator:load_model:109 - ✅ DirectML optimizations applied
+2025-10-17 10:28:28.667 | INFO     | app.services.ai_generator:load_model:136 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 10:28:28.667 | INFO     | app.services.ai_generator:load_model:137 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 10:28:28.955 | INFO     | app.services.ai_generator:unload_model:243 - Model unloaded
+2025-10-17 10:28:28.955 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 10:29:18.608 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:29:18.608 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:29:18.609 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:29:18.610 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:29:31.760 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f037-2ae9-728b-8257-59b664a593f1
+2025-10-17 10:29:31.769 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f037-2ae9-728b-8257-59b664a593f1_face.jpg
+2025-10-17 10:29:38.159 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 48f7529a-3289-47b6-b0fb-12b867946447
+2025-10-17 10:32:41.307 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:32:41.409 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:32:41.410 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:32:41.411 | INFO     | app.services.ai_generator:load_model:110 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:32:41.412 | INFO     | app.services.ai_generator:load_model:111 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:32:41.413 | INFO     | app.services.ai_generator:load_model:116 - Using FP16 precision for GPU
+2025-10-17 10:32:57.519 | INFO     | app.services.ai_generator:load_model:136 - 📦 Moving model to privateuseone:0...
+2025-10-17 10:33:06.096 | INFO     | app.services.ai_generator:load_model:141 - 🔧 Applying DirectML compatibility fixes...
+2025-10-17 10:33:06.506 | INFO     | app.services.ai_generator:load_model:145 - ✅ Text encoder moved to CPU
+2025-10-17 10:33:06.506 | INFO     | app.services.ai_generator:load_model:146 - ✅ UNet & VAE remain on DirectML (AMD GPU)
+2025-10-17 10:33:06.507 | INFO     | app.services.ai_generator:_patch_pipeline_for_directml:101 - ✅ Pipeline patched for DirectML compatibility
+2025-10-17 10:33:06.508 | INFO     | app.services.ai_generator:load_model:155 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 10:33:06.522 | INFO     | app.services.ai_generator:load_model:158 - ✅ DirectML optimizations applied
+2025-10-17 10:33:06.522 | INFO     | app.services.ai_generator:load_model:185 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 10:33:06.523 | INFO     | app.services.ai_generator:load_model:186 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 10:33:06.866 | INFO     | app.services.ai_generator:unload_model:292 - Model unloaded
+2025-10-17 10:33:06.867 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 10:34:11.288 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:34:11.289 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:34:11.289 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:34:11.290 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:34:28.333 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f03b-b1ce-71f8-ba73-d749c475a2f1
+2025-10-17 10:34:28.335 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f03b-b1ce-71f8-ba73-d749c475a2f1_face.jpg
+2025-10-17 10:34:34.637 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: cd7d8460-56e3-438e-8af0-030ed96ca3ec
+2025-10-17 10:37:06.317 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:37:06.743 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:37:06.743 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:37:06.747 | INFO     | app.services.ai_generator:load_model:110 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:37:06.747 | INFO     | app.services.ai_generator:load_model:111 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:37:06.747 | INFO     | app.services.ai_generator:load_model:116 - Using FP16 precision for GPU
+2025-10-17 10:38:02.140 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:38:02.140 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:38:02.140 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:38:02.140 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:38:19.269 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f03f-37c2-70cf-bef3-2b58e8cd57a1
+2025-10-17 10:38:19.271 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f03f-37c2-70cf-bef3-2b58e8cd57a1_face.jpg
+2025-10-17 10:38:25.737 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 2c3f4337-a4ab-4a0f-8b06-ac3c23cd59dc
+2025-10-17 10:42:17.068 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:42:18.125 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:42:18.128 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:42:18.145 | INFO     | app.services.ai_generator:load_model:122 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:42:18.148 | INFO     | app.services.ai_generator:load_model:123 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:42:18.152 | INFO     | app.services.ai_generator:load_model:128 - Using FP16 precision for GPU
+2025-10-17 10:43:39.824 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:43:39.825 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:43:39.825 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:43:39.826 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:43:53.779 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f044-526d-71c7-8558-84ba9b6f184e
+2025-10-17 10:43:53.780 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f044-526d-71c7-8558-84ba9b6f184e_face.jpg
+2025-10-17 10:44:00.179 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: aed2ab9f-441e-4dda-93ea-c6683f5b7775
+2025-10-17 10:46:15.314 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:46:16.098 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:46:16.102 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:46:16.116 | INFO     | app.services.ai_generator:load_model:122 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:46:16.116 | INFO     | app.services.ai_generator:load_model:123 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:46:16.123 | INFO     | app.services.ai_generator:load_model:128 - Using FP16 precision for GPU
+2025-10-17 10:47:14.108 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:47:14.108 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:47:14.108 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:47:14.108 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:47:33.226 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f047-abaa-7343-9fd4-c9dedcdc6d0f
+2025-10-17 10:47:33.229 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f047-abaa-7343-9fd4-c9dedcdc6d0f_face.jpg
+2025-10-17 10:47:39.608 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 724bce66-d927-4386-8f36-07dc0d995554
+2025-10-17 10:53:06.988 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:53:07.665 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:53:07.666 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:53:07.673 | INFO     | app.services.ai_generator:load_model:122 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:53:07.674 | INFO     | app.services.ai_generator:load_model:123 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:53:07.675 | INFO     | app.services.ai_generator:load_model:128 - Using FP16 precision for GPU
+2025-10-17 10:53:58.930 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:53:58.930 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:53:58.930 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:53:58.932 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 10:54:39.278 | INFO     | app.api.routes.routes:process_generation:64 - Received generation request: 0199f04e-2be2-7300-b68a-693172281125
+2025-10-17 10:54:39.286 | INFO     | app.api.routes.routes:process_generation:74 - Face image saved to ./temp\0199f04e-2be2-7300-b68a-693172281125_face.jpg
+2025-10-17 10:54:45.715 | INFO     | app.api.routes.routes:process_generation:90 - Task queued with ID: 58d39799-9e58-4612-b782-b113743091d2
+2025-10-17 10:56:17.507 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 10:56:17.791 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 10:56:17.791 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 10:56:17.791 | INFO     | app.services.ai_generator:load_model:122 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 10:56:17.791 | INFO     | app.services.ai_generator:load_model:123 - 🖥️ Target device: privateuseone:0
+2025-10-17 10:56:17.801 | INFO     | app.services.ai_generator:load_model:128 - Using FP16 precision for GPU
+2025-10-17 10:56:21.944 | INFO     | app.services.ai_generator:load_model:148 - 📦 Moving model to privateuseone:0...
+2025-10-17 10:56:42.506 | INFO     | app.services.ai_generator:load_model:153 - 🔧 Applying DirectML compatibility fixes...
+2025-10-17 10:56:42.524 | INFO     | app.services.ai_generator:load_model:158 - ✅ Using legacy attention processor (DirectML compatible)
+2025-10-17 10:56:43.160 | INFO     | app.services.ai_generator:load_model:162 - ✅ Text encoder moved to CPU
+2025-10-17 10:56:43.161 | INFO     | app.services.ai_generator:load_model:163 - ✅ UNet & VAE remain on DirectML (AMD GPU)
+2025-10-17 10:56:43.167 | INFO     | app.services.ai_generator:_patch_pipeline_for_directml:113 - ✅ Pipeline patched for DirectML compatibility
+2025-10-17 10:56:43.169 | INFO     | app.services.ai_generator:load_model:172 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 10:56:43.170 | INFO     | app.services.ai_generator:load_model:175 - ✅ DirectML optimizations applied
+2025-10-17 10:56:43.172 | INFO     | app.services.ai_generator:load_model:202 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 10:56:43.177 | INFO     | app.services.ai_generator:load_model:203 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 10:56:45.043 | INFO     | app.services.ai_generator:unload_model:309 - Model unloaded
+2025-10-17 10:56:45.045 | INFO     | main:shutdown_event:84 - Models unloaded
+2025-10-17 10:57:10.547 | INFO     | main:startup_event:52 - Starting Digital Signage AI Service
+2025-10-17 10:57:10.547 | INFO     | main:startup_event:53 - Environment: development
+2025-10-17 10:57:10.548 | INFO     | main:startup_event:54 - Debug mode: True
+2025-10-17 10:57:10.550 | INFO     | main:startup_event:58 - Directories checked
+2025-10-17 11:33:18.663 | INFO     | main:shutdown_event:77 - Shutting down application
+2025-10-17 11:33:18.942 | INFO     | app.services.ai_generator:get_device:21 - ✅ Using DirectML device (AMD GPU): privateuseone:0
+2025-10-17 11:33:18.942 | INFO     | app.services.ai_generator:__init__:54 - 🎮 DirectML (AMD GPU) mode enabled
+2025-10-17 11:33:18.942 | INFO     | app.services.ai_generator:load_model:122 - ⏳ Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2025-10-17 11:33:18.942 | INFO     | app.services.ai_generator:load_model:123 - 🖥️ Target device: privateuseone:0
+2025-10-17 11:33:18.942 | INFO     | app.services.ai_generator:load_model:128 - Using FP16 precision for GPU
+2025-10-17 11:33:24.073 | INFO     | app.services.ai_generator:load_model:148 - 📦 Moving model to privateuseone:0...
+2025-10-17 11:33:47.807 | INFO     | app.services.ai_generator:load_model:153 - 🔧 Applying DirectML compatibility fixes...
+2025-10-17 11:33:47.822 | INFO     | app.services.ai_generator:load_model:158 - ✅ Using legacy attention processor (DirectML compatible)
+2025-10-17 11:33:48.299 | INFO     | app.services.ai_generator:load_model:162 - ✅ Text encoder moved to CPU
+2025-10-17 11:33:48.300 | INFO     | app.services.ai_generator:load_model:163 - ✅ UNet & VAE remain on DirectML (AMD GPU)
+2025-10-17 11:33:48.301 | INFO     | app.services.ai_generator:_patch_pipeline_for_directml:113 - ✅ Pipeline patched for DirectML compatibility
+2025-10-17 11:33:48.302 | INFO     | app.services.ai_generator:load_model:172 - 🔧 Applying DirectML (AMD) optimizations...
+2025-10-17 11:33:48.303 | INFO     | app.services.ai_generator:load_model:175 - ✅ DirectML optimizations applied
+2025-10-17 11:33:48.304 | INFO     | app.services.ai_generator:load_model:202 - ✅ Stable Diffusion model loaded successfully!
+2025-10-17 11:33:48.305 | INFO     | app.services.ai_generator:load_model:203 - 📊 Model info: {'model_id': 'runwayml/stable-diffusion-v1-5', 'device': 'DirectML (AMD)', 'device_raw': 'privateuseone:0', 'loaded': True, 'is_directml': True, 'xformers_enabled': False, 'cpu_offload_enabled': False}
+2025-10-17 11:33:49.081 | INFO     | app.services.ai_generator:unload_model:309 - Model unloaded
+2025-10-17 11:33:49.082 | INFO     | main:shutdown_event:84 - Models unloaded
