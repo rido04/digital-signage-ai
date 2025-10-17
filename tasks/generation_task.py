@@ -20,8 +20,8 @@ from app.models.schemas import CampaignData, CompletionCallback, FailureCallback
 # Initialize Celery
 celery_app = Celery(
     'digital_signage_tasks',
-    broker=settings.celery_broker_url,
-    backend=settings.celery_result_backend
+    broker='memory://',
+    backend='rpc://'
 )
 
 # Celery configuration
