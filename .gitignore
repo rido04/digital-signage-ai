@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.env/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Large model files
+*.onnx
+*.pt
+*.pkl
+*.h5
+
+# Data
+*.mp4
+*.zip
+*.rar
+*.log
